@@ -1,3 +1,12 @@
+---
+
+**Language / Langue / Idioma / Lingua / Idioma:**
+[EN](README.md) | [FR](README.fr.md) | [ES](README.es.md) | [IT](README.it.md) | [PT](README.pt.md)
+
+> *Multilingual versions produced using [sfl-translation-agent](https://github.com/simon-drury/sfl-translation-agent) — SFL-first translation pipeline by the same author.*
+
+---
+
 # sfl-first-llm-architecture
 
 **© 2026 Simon Drury (sjd_datascapes)**
